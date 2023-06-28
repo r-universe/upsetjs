@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "upsetjs"]
 	path = upsetjs
 	url = https://github.com/upsetjs/upsetjs_r
-	shallow = true
-	registered = true
